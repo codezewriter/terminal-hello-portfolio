@@ -1,5 +1,9 @@
 # Terminal-Based Hello Portfolio
 
+Project 1 of my software engineering portfolio ladder.
+
+Built from a blank linux terminal using Python, Git, GitHub, and VS Code. 
+
 This is my first GitHub portfolio project in my software engineering mastery journey.
 
 ## Project Goal
